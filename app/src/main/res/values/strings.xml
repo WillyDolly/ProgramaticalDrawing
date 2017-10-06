@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProgramaticalDrawing</string>
+    <string name="title_activity_intersect_detection">IntersectDetection</string>
+</resources>
